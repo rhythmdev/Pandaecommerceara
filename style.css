@@ -1,0 +1,7 @@
+
+
+.carousel-item{
+    background-color: #f368e0;
+    background-image: linear-gradient(315deg, #f368e0 0%, #d3d3d3 74%);
+    border-radius: 10px;
+}
